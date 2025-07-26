@@ -1,2 +1,3 @@
 # Security-Protocol-Portfolio-Wireshark
 Security analyst-focused protocol analysis using Wireshark. Investigated TCP handshakes, HTTP authentication, SSL/TLS cipher suites, Kerberos ticket exchange, and DNS anomalies. Includes empirical evidence and attack surface insights for common enterprise protocols.
+Performed deep-dive analysis of enterprise protocols (TCP, HTTP, SSL/TLS, Kerberos, DNS) using Wireshark to evaluate security posture and detect anomalies. Extracted insights from real packet data, interpreted authentication flows, and assessed cipher strength and DNS misuse aligning with the responsibilities of a Security Analyst role.
